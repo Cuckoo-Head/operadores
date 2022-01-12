@@ -31,7 +31,7 @@ public class Main {
 				", h = " + h +
 				", i = " + i);
 		
-		System.out.println(", exp = " + exp +
+		System.out.println("exp = " + exp +
 				", w = " + w +
 				", x = " + x +
 				", y = " + y +
